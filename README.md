@@ -50,3 +50,11 @@ To build and run the project, follow these steps:
 - **make dvi**: This target builds documentation for the project.
 - **make dist**: This target packages the project for distribution.
 - **make gcov_report**: This target generates a code coverage report in HTML format using `gcov` for the Tetris game logic.
+
+## Screenshots
+
+![Welcome Screen](src/docs/screenshot/Screenshot1.png)
+
+![Gameplay](src/docs/screenshot/Screenshot2.png)
+
+![Tetris in action](src/docs/screenshot/Screenshot3.png)
