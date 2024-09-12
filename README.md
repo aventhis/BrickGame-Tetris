@@ -53,8 +53,8 @@ To build and run the project, follow these steps:
 
 ## Screenshots
 
-![Welcome Screen](src/docs/screenshot/Screenshot1.png)
-
-![Gameplay](src/docs/screenshot/Screenshot2.png)
-
-![Tetris in action](src/docs/screenshot/Screenshot3.png)
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img src="src/docs/screenshot/Screenshot1.png" alt="Welcome Screen" width="300"/>
+  <img src="src/docs/screenshot/Screenshot2.png" alt="Gameplay" width="300"/>
+  <img src="src/docs/screenshot/Screenshot3.png" alt="Tetris in action" width="300"/>
+</div>
