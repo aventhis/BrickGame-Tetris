@@ -56,8 +56,16 @@ To build and run the project, follow these steps:
 <table>
   <tr>
     <td><img src="src/docs/screenshot/Screenshot1.png" alt="Welcome Screen" width="200"/></td>
-    <td><img src="src/docs/screenshot/Screenshot2.png" alt="Gameplay" width="200"/></td>
-    <td><img src="src/docs/screenshot/Screenshot3.png" alt="Tetris in action" width="200"/></td>
+    <td>
+      <table>
+        <tr>
+          <td><img src="src/docs/screenshot/Screenshot2.png" alt="Gameplay" width="200"/></td>
+        </tr>
+        <tr>
+          <td><img src="src/docs/screenshot/Screenshot3.png" alt="Tetris in action" width="200"/></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
